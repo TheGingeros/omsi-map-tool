@@ -1,0 +1,22 @@
+[spline]                                // info about a new spline 18 lines
+0                                       // local id for spline in this current tile
+Splines\Marcel\Asfalt_10m_path.sli      // path to the spline, relative from the root of OMSI
+1                                       // order of the segment from 1
+0                                       // ID of predecessor spline
+0                                       // ID of successor spline
+129.430514502205                        // X
+0                                       // Z
+100.456725252932                        // Y
+0                                       // rotation
+49.9999992153375                        // length
+99.9999984306749                        // radius
+0                                       // gradient start
+0                                       // gradient end
+0                                       // cant start
+0                                       // cant end
+0                                       // start skew
+0                                       // end skew
+0                                       // ??
+mirror                                  // the spline is mirrored
+
+TODO ALIGN TERRAIN
